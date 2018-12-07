@@ -1,5 +1,4 @@
 from collections import Counter
-from itertools import combinations, compress
 
 data = [x.strip() for x in open("input.txt").readlines()]
 
